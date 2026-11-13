@@ -3,7 +3,7 @@
 An interactive, step-by-step course that follows the **Claude Academy** path for builders (Claude Code 101, Claude Code in Action, subagents, agent skills, MCP, Building with the Claude API and Claude on Amazon Bedrock), focused on **cloud, AI automation and security** work: the agent loop, CLAUDE.md memory, the explore-plan-code-commit workflow, permissions and settings, hooks, skills, subagents, MCP servers, the Messages API with tool use, Claude on Amazon Bedrock, headless mode and GitHub Actions, and using Claude Code safely. Every lesson animates how Claude works, with analogies, memory hooks, trigger words, quizzes, and a **Config Lab** where you write real Claude Code files and a simulator shows what Claude would be allowed to do.
 
 > Created by **Raul** ([@rmctech-ai](https://github.com/rmctech-ai)) · Freelance AI Automation Specialist on the path to Cloud Security.
-> Part of the Explorer series: [Linux Explorer](https://github.com/rmctech-ai/linux-explorer) · [Python Explorer](https://github.com/rmctech-ai/python-explorer) · [IAM Explorer](https://github.com/rmctech-ai/iam-explorer) · [VPC Explorer](https://github.com/rmctech-ai/vpc-explorer) · [IaC Explorer](https://github.com/rmctech-ai/iac-explorer) · [Serverless Explorer](https://github.com/rmctech-ai/serverless-explorer) · [CI/CD Explorer](https://github.com/rmctech-ai/cicd-explorer) · [Cloud Security Explorer](https://github.com/rmctech-ai/cloudsecurity-explorer) · [Well-Architected Explorer](https://github.com/rmctech-ai/wellarchitected-explorer) · [Security Journey Explorer](https://github.com/rmctech-ai/aws-security-journey) · [n8n Explorer](https://github.com/rmctech-ai/n8n-explorer).
+> Part of the Explorer series: [Linux Explorer](https://github.com/rmctech-ai/linux-explorer) · [Python Explorer](https://github.com/rmctech-ai/python-explorer) · [IAM Explorer](https://github.com/rmctech-ai/iam-explorer) · [VPC Explorer](https://github.com/rmctech-ai/vpc-explorer) · [IaC Explorer](https://github.com/rmctech-ai/iac-explorer) · [Serverless Explorer](https://github.com/rmctech-ai/serverless-explorer) · [CI/CD Explorer](https://github.com/rmctech-ai/cicd-explorer) · [Cloud Security Explorer](https://github.com/rmctech-ai/cloudsecurity-explorer) · [Well-Architected Explorer](https://github.com/rmctech-ai/wellarchitected-explorer) · [Security Journey Explorer](https://github.com/rmctech-ai/aws-security-journey) · [n8n Explorer](https://github.com/rmctech-ai/n8n-explorer) · [SAA Explorer](https://github.com/rmctech-ai/saa-explorer).
 > 🏠 Part of **[Raul's Cloud Learning Hub](https://rmctech-ai.github.io/)** · Live course: https://rmctech-ai.github.io/ClaudeCode-Explorer/
 > The Explorer course format is inspired by [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) by Dilum Sanjaya. All lessons, labs and study tools are my own work.
 
@@ -23,10 +23,10 @@ python3 -m http.server 8000     # then open http://localhost:8000
 ```bash
 git init && git add . && git commit -m "Claude Code Explorer"
 git branch -M main
-git remote add origin https://github.com/rmctech-ai/claudecode-explorer.git
+git remote add origin https://github.com/rmctech-ai/ClaudeCode-Explorer.git
 git push -u origin main
 ```
-GitHub → **Settings → Pages → Deploy from a branch → `main` / root → Save** → `https://rmctech-ai.github.io/claudecode-explorer/`
+GitHub → **Settings → Pages → Deploy from a branch → `main` / root → Save** → `https://rmctech-ai.github.io/ClaudeCode-Explorer/`
 
 ---
 
